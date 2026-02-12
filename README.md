@@ -18,3 +18,7 @@ Dokumentationen zu möglichen Lösungswegen, die wir hier gerne sammeln:
 ### 2025
 
 * [https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2025-documentation](https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2025-documentation)
+
+### 2026
+
+* [https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2026-writeup](https://github.com/QWERTZexe/THAINNOS-hacking-challenge-2026-writeup)
